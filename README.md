@@ -8,8 +8,6 @@ Notable features:
 * Has a CI pipeline using GitHub Actions to run tests.
 * Has a CD pipeline using GitHub Actions to publish to Docker Hub.
 
-## Want _moar_?!
-
 There is a more advanced example in [olliefr/docker-gs-ping-roach](https://github.com/olliefr/docker-gs-ping-roach) using [CockroachDB](https://github.com/cockroachdb/cockroach).
 
 ## Contributing
